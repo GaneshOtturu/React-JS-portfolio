@@ -17,7 +17,7 @@ export function Home(){
                     <div className="col-lg-10" id="back">
                         <img src={abs} className="img-fluid" alt=""></img>
                         <div className="text-center text-light" id="back-text">
-                            <h1>Hi! There, I am Kolli Sai Praveen Reddy</h1>
+                            <h1>Hi! There, I am Ganesh Otturu</h1>
                             <p>This is my portfolio website, where you can find all my works and projects</p>
                             <p>Go ahead and Explore <i className="bi bi-search"></i></p>
                         </div>
@@ -35,22 +35,22 @@ export function About(){
                 <div class="row justify-content-center align-item-center">
                     <div class="col-md-5 text-center text-md-start border border-secondary" style={{backgroundColor: "rgb(214, 213, 213)"}}>
                         <h1>
-                            <div class="display-4">Kolli Sai Praveen Reddy</div>
+                            <div class="display-4">Ganesh Otturu</div>
                             <div class="lead text-muted"><i class="bi bi-file-earmark-person"></i> A Learner | ML Enthusiast</div>
                         </h1>
                         <hr />
                         <div class="contact">
                             <p class="lead pt-0">Im currently learning Machine Learning and MERN-Stack</p>
                             <span class="lead"><i class="bi bi-envelope-at-fill"></i> How to reach me : 
-                                <a href="mailto:saipraveenreddy258@gmail.com" class="btn btn-sm btn-primary fw-bold">Email</a>
+                                <a href="mailto:ganeshotturu1@gmail.com" class="btn btn-sm btn-primary fw-bold">Email</a>
                             </span>
                             <br /><br />
                             <span class="lead"><i class="bi bi-geo-fill"></i> Bengaluru, Karnataka</span>
                             <br /><br />
                             <span class="lead fw-900"><i class="bi bi-at"></i> Connect with me : </span>
                             <p class="btn-group">
-                                <a href="https://in.linkedin.com/in/kolli-sai-praveen-reddy-4ab976217" target="_blank" class="btn btn-sm btn-success fw-bold"><i class="bi bi-linkedin"></i> Linked In</a>
-                                <a href="https://github.com/praveenreddy4512" target="_blank" class="btn btn-warning btn-sm fw-bold"><i class="bi bi-github"></i> GitHub</a>
+                                <a href="https://www.linkedin.com/in/ganesh-otturu-102a08298/" target="_blank" class="btn btn-sm btn-success fw-bold"><i class="bi bi-linkedin"></i> Linked In</a>
+                                <a href="https://github.com/GaneshOtturu" target="_blank" class="btn btn-warning btn-sm fw-bold"><i class="bi bi-github"></i> GitHub</a>
                                 <a href="https://leetcode.com/" target="_blank" class="btn btn-sm btn-danger fw-bold">LeetCode</a>
                             </p>
 
@@ -85,7 +85,7 @@ export function Info(){
                             <div class="card-body text-center py-4">
                                 <h5 class="card-title">All of my works in this domain</h5>
                                 <p class="card-text mx-3 my-1 text-muted d-none d-lg-block">MERN stack is a collection of technologies that enables faster application development.The main purpose of using MERN stack is to develop apps using JavaScript only.</p>
-                                <a href="https://github.com/praveenreddy4512?tab=repositories" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
+                                <a href="https://github.com/GaneshOtturu?tab=repositories" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
                             </div>
                         </div>
                     </div>
@@ -95,7 +95,7 @@ export function Info(){
                             <div class="card-body text-center py-4">
                                 <h5 class="card-title">Problems solved in LeetCode</h5>
                                 <p class="card-text mx-3 my-1 text-muted d-none d-lg-block">LeetCode is an online platform offering coding challenges and interview preparation resources for software engineers and developers. The service provides coding and algorithmic problems intended for users to practice coding.</p>
-                                <a href="https://github.com/praveenreddy4512" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
+                                <a href="https://github.com/GaneshOtturu" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
                             </div>
                         </div>
                     </div>
@@ -105,7 +105,7 @@ export function Info(){
                             <div class="card-body text-center py-4">
                                 <h5 class="card-title">All of my works in this domain</h5>
                                 <p class="card-text mx-3 my-1 text-muted d-none d-lg-block">Machine learning is an important component of the growing field of data science. Machine learning algorithms are typically created using frameworks that accelerate solution development.</p>
-                                <a href="https://github.com/praveenreddy4512?tab=repositories" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
+                                <a href="https://github.com/GaneshOtturu?tab=repositories" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
                             </div>
                         </div>
                     </div>
